@@ -1,7 +1,7 @@
-# Realm-Other-Realms-Test-Android
+# Realm-Index-Text-Android
 
-Testing whether different realm DB can share same model.
+Testing whether @Index is applicable to Relationships.
+Hahaha...
 
 ####Result
-Can share same kind of model.
-Can not share same object in diffrent DB.
+Error:@Index is only applicable to String fields - got emails
